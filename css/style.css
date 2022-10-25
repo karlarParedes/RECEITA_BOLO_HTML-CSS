@@ -1,0 +1,104 @@
+.minha {
+    text-decoration-color: #0c0c0d;
+    top: 25px;
+    left: 22px;
+    width: 883px;
+    height: 274px;
+    border: 2px solid #707070;
+    opacity: 1;
+}
+
+.gelatina {
+    display: block;
+    top: 420px;
+    left: 21px;
+    width: 885px;
+    height: 187px;
+    text-align: left;
+    font: normal normal 900 89px/79px Montserrat;
+    letter-spacing: 0px;
+    color: #FFB300;
+    opacity: 1;
+}
+
+.autor_gelatina {
+    left: 21px;
+    width: 884px;
+    height: 28px;
+    text-align: right;
+    font: normal normal bold 21px/34px Montserrat;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+
+.autor_gelatina-p {
+    left: 21px;
+    width: 883px;
+    height: 197px;
+    text-align: left;
+    font: normal normal 600 21px/34px Montserrat;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+
+.ingre {
+    cursor: pointer;
+    top: 965px;
+    left: 21px;
+    width: 258px;
+    height: 25px;
+    text-align: left;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+
+.parrafo_1 {
+    left: 21px;
+    width: 883px;
+    height: 117px;
+    text-align: left;
+    font: normal normal 600 21px/34px Montserrat;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+
+.diSsigue {
+    margin-top: 67px;
+    width: 630px;
+}
+
+.sigue {
+    cursor: pointer;
+    bottom: 42px;
+    width: 183px;
+    height: 26px;
+    font: normal normal 600 21px/34px Montserrat;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+
+div .img {
+    block-size: auto;
+    width: 500px;
+    height: 330px;
+}
+
+#prepComienza {
+    cursor: pointer;
+    width: 709px;
+    height: 200px;
+}
+
+.divi video {
+    cursor: pointer;
+}
+
+.fin {
+    border: 5px solid rgb(250, 245, 245);
+    opacity: 1;
+}
